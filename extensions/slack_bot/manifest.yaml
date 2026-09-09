@@ -1,7 +1,7 @@
-version: 0.0.11
+version: 0.0.1
 type: plugin
-author: langgenius
-name: slack-bot
+author: steveruru-skybr
+name: slack-bot-jpcc
 label:
   en_US: Slack Bot
   ja_JP: Slack Bot
